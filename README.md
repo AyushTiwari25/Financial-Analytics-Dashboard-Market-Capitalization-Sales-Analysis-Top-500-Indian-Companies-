@@ -2,7 +2,7 @@
 <!--                COVER SECTION (ANNUAL REPORT)              -->
 <!-- ========================================================= -->
 
-<p align="center"><img width="1536" height="530" alt="Banner" src="https://github.com/user-attachments/assets/545bebf2-a210-4069-a298-9867b6ce1c95" width="100%"/>
+<p align="center"><img width="1536" height="662" alt="Banner" src="https://github.com/user-attachments/assets/e85ba1d5-3d1a-478a-91a6-f6c80a25101e" width="100%"/>
 
 
 <h1 align="center">Financial Intelligence Dashboard</h1>
